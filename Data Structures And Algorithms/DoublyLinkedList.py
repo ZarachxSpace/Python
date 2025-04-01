@@ -23,4 +23,3 @@ class DoublyLinkedList:
             self.head = new_node
             self.tail = new_node
         else: 
-            
