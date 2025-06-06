@@ -1,3 +1,6 @@
 # Python
 
-## Learning Repository for my Python Projects and CS Topics
+## Learning Repository for Python. 
+
+## Includes: Data Structures and Algorithms, Projects, and Concepts
+
