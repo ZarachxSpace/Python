@@ -173,3 +173,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# Random Files
+.DS_Store
+Python Projects/Python.ipynb
+BigO.ipynb
